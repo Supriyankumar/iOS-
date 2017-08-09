@@ -9,3 +9,7 @@ Dicee App:
 
 
 <a href="https://imgflip.com/gif/1tufok"><img src="https://i.imgflip.com/1tufok.gif" title="made at imgflip.com"/></a>
+
+Magic Ball8 App:
+
+<a href="https://imgflip.com/gif/1tug2c"><img src="https://i.imgflip.com/1tug2c.gif" title="made at imgflip.com"/></a>
