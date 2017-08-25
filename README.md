@@ -26,6 +26,10 @@ Tip Calculator App:
 
 <a href="https://imgflip.com/gif/1tugtf"><img src="https://i.imgflip.com/1tugtf.gif" title="made at imgflip.com"/></a>
 
+Chat App:
+
+<a href="https://imgflip.com/gif/1uqa17"><img src="https://i.imgflip.com/1uqa17.gif" title="made at imgflip.com"/></a>
+
 I am Rich App:
 
 <a href="https://imgflip.com/gif/1tuh2q"><img src="https://i.imgflip.com/1tuh2q.gif" title="made at imgflip.com"/></a>
